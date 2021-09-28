@@ -8,3 +8,5 @@ Todo Application Created using React JS
 * Default Props and PropTypes
 * Funtion and Class Component
 * Local Storage
+
+![GitHub Logo](/public/Todo.PNG)
